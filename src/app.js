@@ -4,6 +4,7 @@ import helmet from 'helmet';
 import morgan from 'morgan';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
+import securityMiddleware from '#middlewares/security.middleware.js'
 
 // Route imports
 import authRoutes from '#routes/auth.routes.js';
@@ -16,6 +17,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 app.use(morgan('combined', { stream: { write: (message) => logger.info(message.trim()) } }));
+// app.use(securityMiddleware)
 
 app.get('/', (req, res) => {
   logger.info('Hello from Acquisitions API');

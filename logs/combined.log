@@ -84,3 +84,63 @@
 {"level":"info","message":"::1 - - [03/Jul/2026:22:08:29 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 33 \"-\" \"PostmanRuntime/7.51.1\"","service":"acquisitions-api"}
 {"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
 {"level":"info","message":"::1 - - [03/Jul/2026:22:08:44 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 35 \"-\" \"PostmanRuntime/7.51.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.51.1"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:54:56 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.51.1\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"acquisitions-api","userAgent":"PostmanRuntime/7.51.1"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:55:10 +0000] \"GET /health HTTP/1.1\" 403 68 \"-\" \"PostmanRuntime/7.51.1\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:57:13 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:57:13 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:57:52 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:57:55 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:12 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:16 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:22 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:23 +0000] \"GET /health HTTP/1.1\" - - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:24 +0000] \"GET /health HTTP/1.1\" - - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:24 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:24 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:24 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:24 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:24 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:24 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:25 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:25 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"}
+{"level":"info","message":"::1 - - [04/Jul/2026:11:58:25 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:12:00:17 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:12:58:59 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:13:13:15 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Health check endpoint called","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:13:43:55 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions API","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:13:44:40 +0000] \"GET / HTTP/1.1\" 200 12 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User vividmilan@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User logged in successfully: vividmilan@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:13:52:09 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 117 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"error","message":"Signin error:  e is not defined","service":"acquisitions-api","stack":"ReferenceError: e is not defined\n    at authenticateUser (file:///D:/projects/devops/demo/src/services/auth.service.js:84:52)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async signIn (file:///D:/projects/devops/demo/src/controller/auth.controller.js:57:22)"}
+{"level":"info","message":"::1 - - [04/Jul/2026:13:52:39 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 500 468 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User vividmilan@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: vividmilan@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:13:52:49 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 124 \"-\" \"-\"","service":"acquisitions-api"}
+{"level":"info","message":"User vividmilan@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User logged in successfully: vividmilan@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [04/Jul/2026:13:55:41 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 116 \"-\" \"-\"","service":"acquisitions-api"}
